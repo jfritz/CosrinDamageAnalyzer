@@ -8,7 +8,6 @@ namespace cdagui
 	
 class MainForm : System.Windows.Forms.Form
 {
-	Label log_filename_label = new Label();
 	LogParser parser = new LogParser();
 	DataGridView data_grid = new DataGridView();
 	StatusBar status_bar = new StatusBar();
@@ -116,6 +115,12 @@ class MainForm : System.Windows.Forms.Form
 	/* --- HANDLERS --- */
 	public void Options_Clicked(object ob, EventArgs e)
 	{
+		OptionsForm options_dialog = new OptionsForm(this);
+		
+		if (options_dialog.ShowDialog() == DialogResult.OK)
+		{
+			Console.WriteLine("saving options...");
+		}
 	}	
 
 	public void Browse_Clicked(object ob, EventArgs e)

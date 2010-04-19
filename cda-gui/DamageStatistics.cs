@@ -82,8 +82,6 @@ namespace cdagui
 
 		private void RemoveEffectiveHitsBelowThreshold(Int16 threshold)
 		{
-			Int16 currentDamage = 0;
-			Int16 currentAbsorb = 0;
 			Int16 currentEffective = 0;
 
 			for (Int16 x = 0; x < hits.Count; x++)
@@ -91,8 +89,6 @@ namespace cdagui
 				String hit = (String)hits[x];
 
 				String[] tmpHit = hit.Split(',');
-				currentDamage = Int16.Parse(tmpHit[0]);
-				currentAbsorb = Int16.Parse(tmpHit[1]);
 				currentEffective = Int16.Parse(tmpHit[2]);				
 
 				if (currentEffective < threshold) 
