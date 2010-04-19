@@ -1,3 +1,14 @@
+=== ABOUT ===
+The Unofficial Cosrin Damage Analyzer (CDA) is a utility for analyzing
+Melee/Ranger combat logs for the game Legends of Cosrin <http://www.legendsofcosrin.com>.
+
+=== COMPILING ===
+CDA requires the following to be compiled:
+
+- Mono 2.6.2
+- System.Windows.Forms support (packaged with Mono by default)
+
+=== COPYRIGHT AND LICENSE ===
 The Unofficial Cosrin Damage Analyzer.
 Copyright (C) 2010, Thau.
 
