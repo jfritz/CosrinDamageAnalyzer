@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cda-gui", "cda-gui\cda-gui.csproj", "{C75F900D-85CB-4886-9674-CB5DD4146243}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C75F900D-85CB-4886-9674-CB5DD4146243}.Debug|x86.ActiveCfg = Debug|x86
+		{C75F900D-85CB-4886-9674-CB5DD4146243}.Debug|x86.Build.0 = Debug|x86
+		{C75F900D-85CB-4886-9674-CB5DD4146243}.Release|x86.ActiveCfg = Release|x86
+		{C75F900D-85CB-4886-9674-CB5DD4146243}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = cda-gui\cda-gui.csproj
+	EndGlobalSection
+EndGlobal
