@@ -2,6 +2,7 @@ using System;
 using System.Drawing;
 using System.Windows.Forms;
 using System.Collections;
+using System.Diagnostics;
 
 namespace cdagui
 {
@@ -33,7 +34,8 @@ class MainForm : System.Windows.Forms.Form
 		mmAppStart.MenuItems.Add(miEdit);
 
 	   	MenuItem miAbout = new MenuItem("&About");
-	   	miAbout.MenuItems.Add("&About Cosrin Damage Analyzer...", new EventHandler(About_Clicked));
+		miAbout.MenuItems.Add("&Visit Website", new EventHandler(ViewWebsite_Clicked));
+		miAbout.MenuItems.Add("&About Cosrin Damage Analyzer...", new EventHandler(About_Clicked));
 		mmAppStart.MenuItems.Add(miAbout);
 	
 		this.Menu = mmAppStart;
@@ -183,6 +185,11 @@ class MainForm : System.Windows.Forms.Form
 			MessageBoxButtons.OK,
 			MessageBoxIcon.Information
 		);
+	}
+
+	public void ViewWebsite_Clicked(object ob, EventArgs e)
+	{
+		System.Diagnostics.Process.Start("https://github.com/jfritz/CosrinDamageAnalyzer");
 	}
 	
 	public void Exit_Clicked(object ob, EventArgs e)

@@ -1,5 +1,0 @@
-C:\cygwin\home\Jeff\Unofficial-Cosrin-Damage-Analyzer\cda-gui\bin\Debug\cda-gui.exe
-C:\cygwin\home\Jeff\Unofficial-Cosrin-Damage-Analyzer\cda-gui\bin\Debug\cda-gui.pdb
-C:\cygwin\home\Jeff\Unofficial-Cosrin-Damage-Analyzer\cda-gui\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\cygwin\home\Jeff\Unofficial-Cosrin-Damage-Analyzer\cda-gui\obj\x86\Debug\cda-gui.exe
-C:\cygwin\home\Jeff\Unofficial-Cosrin-Damage-Analyzer\cda-gui\obj\x86\Debug\cda-gui.pdb
