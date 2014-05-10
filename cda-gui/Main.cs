@@ -25,7 +25,7 @@ class MainForm : System.Windows.Forms.Form
 	
 	   	MenuItem miFile = new MenuItem("&File");
 		miFile.MenuItems.Add("&Open Log...", new EventHandler(Browse_Clicked));
-		miFile.MenuItems.Add("&Analyze Log", new EventHandler(Analyze_Clicked));
+		miFile.MenuItems.Add("Re-&Analyze Log", new EventHandler(Analyze_Clicked));
 	  	miFile.MenuItems.Add("E&xit", new EventHandler(Exit_Clicked));
 		mmAppStart.MenuItems.Add(miFile);
 
@@ -50,6 +50,7 @@ class MainForm : System.Windows.Forms.Form
 	private void SetupLayout() 
 	{		
 		// Set up data grid	
+		// http://msdn.microsoft.com/en-us/library/System.Windows.Forms.DataGridView_methods%28v=vs.110%29.aspx
 		SetupDataGridView();
 
 		// Set up status bar
@@ -85,8 +86,9 @@ class MainForm : System.Windows.Forms.Form
         data_grid.RowHeadersVisible = false;
 
         data_grid.Columns[0].Name = "Stat";
-        data_grid.Columns[1].Name = "Value";
         data_grid.Columns[0].DefaultCellStyle.Font = new Font(data_grid.DefaultCellStyle.Font, FontStyle.Bold);
+		
+		data_grid.Columns[1].Name = "Value";
 
         data_grid.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
         data_grid.MultiSelect = false;
@@ -142,16 +144,18 @@ class MainForm : System.Windows.Forms.Form
 			// give status bar the filename also.
 			String[] tmp = fd.FileName.Split('\\');
 			String fname = tmp[tmp.Length - 1];
-			status_bar.Panels[0].Text = fname;
+			status_bar.Panels[0].Text = "Loaded " + fname;
 		}
+
+		// Analyze log right away.
+		Analyze_Clicked(this, null);
 	}
 	
-	public void Analyze_Clicked(object ob, EventArgs e)
+	public void Analyze_Clicked (object ob, EventArgs e)
 	{
 		// Check if parser is in a good state
-		if (String.IsNullOrEmpty(this.parser.log_filename))
-		{
-			MessageBox.Show(
+		if (String.IsNullOrEmpty (this.parser.log_filename)) {
+			MessageBox.Show (
 				"You have to open a log first!",
 				"Error",
 				MessageBoxButtons.OK,
@@ -162,17 +166,32 @@ class MainForm : System.Windows.Forms.Form
 		}
 
 		// Clear Datagrid
-		data_grid.Rows.Clear();
-		
+		data_grid.Rows.Clear ();
+	
 		// Parse log, calculate stats, output them to data grid.
-		DamageStatistics statsObject = parser.Parse(); 
-		statsObject.CalculateStats();
-		ArrayList statistics = statsObject.GetStats();
+		status_bar.Panels [1].Text = "Analyzing...";
+		DamageStatistics statsObject = parser.Parse (); 
+		statsObject.CalculateStats ();
+		ArrayList statistics = statsObject.GetDataGridStats ();
 
-		foreach (string[] i in statistics)
-		{
-			data_grid.Rows.Add(i);
+		if (statsObject.IsEmpty ()) {
+			// analysis didn't detect any combat data
+			MessageBox.Show (
+				"Error: Couldn't detect any combat data in " + this.parser.log_filename + ".",
+				"Error",
+				MessageBoxButtons.OK,
+				MessageBoxIcon.Error
+			);
+		} else {
+			// Update data grid with stats
+			foreach (string[] i in statistics) {
+				data_grid.Rows.Add (i);
+			}
+
+			data_grid.AutoResizeColumns ();
 		}
+
+		status_bar.Panels [1].Text = "Ready.";
 	}
 
 	public void About_Clicked(object ob, EventArgs e)
@@ -195,11 +214,6 @@ class MainForm : System.Windows.Forms.Form
 	public void Exit_Clicked(object ob, EventArgs e)
 	{
 		Application.Exit();
-	}
-
-	public void MenuItem_Clicked(object ob, EventArgs e)
-	{
-		// Console.WriteLine("clicked");
 	}
 	
 	[STAThreadAttribute]

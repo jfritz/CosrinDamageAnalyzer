@@ -49,6 +49,12 @@ namespace cdagui
 			averageEffectiveDamage = 0;
 		}
 
+		// Returns true if this stats object hasn't had meaningful data added to it.
+		public bool IsEmpty ()
+		{
+			return (hits.Count == 0);
+		}
+
 		/**
 		 * This function calculates and populates statistical variables based on
 		 * the hits and absorbs arrayLists.
@@ -115,7 +121,7 @@ namespace cdagui
 		/**
 		 * This function formats the statistical data for display in a DataGridView.
 		*/
-		public ArrayList GetStats()
+		public ArrayList GetDataGridStats()
 		{
 			returnStats = new ArrayList();
 
