@@ -1,5 +1,6 @@
 # TODO
 
+- Better instructions for compiling
 - Update or ensure parsing for Cosrin: A New Dawn combat works correctly.
 - Support for spells
 - Mob-based log parsing and stats display, aggregate parsing and stats display

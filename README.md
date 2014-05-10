@@ -1,6 +1,6 @@
 # Cosrin Damage Analyzer (version 0.7)
 
-Combat log parser and analyzer for the online multi-user dungeon, Cosrin: A New Dawn. Written in C# with mono. See [http://cosrintwo.com](http://cosrintwo.com) for game information.
+Combat log parser and analyzer for the online multi-user dungeon, Cosrin: A New Dawn. Written in C# with mono using .NET framework. See [http://cosrintwo.com](http://cosrintwo.com) for game information.
 
 # LIMITATIONS
 Only parses melee and ranger damage currently. Damage parsing may be out of date; was not updated for Cosrin: A New Dawn.
@@ -10,6 +10,8 @@ CDA requires the following to be compiled:
 
 - Mono 2.6.2
 - System.Windows.Forms support (packaged with Mono by default)
+
+Developed and built using MonoDevelop (Xamarin Studio) under 3.5 .NET framework target.
 
 # LICENSE 
 The Unofficial Cosrin Damage Analyzer.

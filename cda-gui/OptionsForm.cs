@@ -28,6 +28,7 @@ namespace cdagui
 			this.MaximizeBox = false;
 			this.ShowInTaskbar = false;
 			
+			// TODO
 			// Add control
 			//this.Controls.Add(status_bar);
 		}

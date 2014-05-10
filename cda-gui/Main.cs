@@ -175,8 +175,10 @@ class MainForm : System.Windows.Forms.Form
 
 	public void About_Clicked(object ob, EventArgs e)
 	{
+		string about = "Cosrin Damage Analyzer. https://github.com/jfritz/CosrinDamageAnalyzer\n\nReleased under the GNU GPL 3.0 license.";
+				
 		MessageBox.Show(
-			"Cosrin Damage Analyzer. Copyright (c) 2010 Thau.",
+			about,
 			"About Cosrin Damage Analyzer",
 			MessageBoxButtons.OK,
 			MessageBoxIcon.Information
@@ -190,7 +192,7 @@ class MainForm : System.Windows.Forms.Form
 
 	public void MenuItem_Clicked(object ob, EventArgs e)
 	{
-		Console.WriteLine("clicked");
+		// Console.WriteLine("clicked");
 	}
 	
 	[STAThreadAttribute]

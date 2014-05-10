@@ -1,29 +1,17 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" ctype="Workspace" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService>
-  <MonoDevelop.Ide.Workbench ActiveDocument="cda-gui\DamageStatistics.cs" ctype="Workbench">
+  <MonoDevelop.Ide.Workbench ActiveDocument="cda-gui\Main.cs">
     <Files>
-      <File FileName="cda-gui\Main.cs" Line="15" Column="2" />
-      <File FileName="cda-gui\DamageStatistics.cs" Line="62" Column="6" />
+      <File FileName="cda-gui\Main.cs" Line="12" Column="46" />
+      <File FileName="cda-gui\DamageStatistics.cs" Line="12" Column="25" />
       <File FileName="cda-gui\LogParser.cs" Line="1" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State expanded="True">
-          <Node name="cda-gui" expanded="True">
-            <Node name="References" expanded="True" />
-            <Node name="DamageStatistics.cs" selected="True" />
-          </Node>
-        </State>
-      </Pad>
-      <Pad Id="ClassPad">
-        <State expanded="True" selected="True" />
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
