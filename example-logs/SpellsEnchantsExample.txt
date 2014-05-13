@@ -1,0 +1,1300 @@
+
+>cast 1
+
+You chant the words of a Fireflames spell and attempt to control the power
+>t
+
+You are unbalanced. Wait 0.3 more seconds.
+>t
+
+Foobar gestures at Kobold...
+A wave of heat rushes from his fingertips...
+Kobold is hit by a small burst of flames for 768 damage! Its resistance reduces the damage to 729.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+>cast 1
+
+You chant the words of a Fireflames spell and attempt to control the power
+>wizmonster kobold;;t
+
+Kobold scampers in!
+Monster summoned...
+
+
+Foobar gestures at Kobold...
+A wave of heat rushes from his fingertips...
+Kobold is hit by a small burst of flames for 1037 damage! Its resistance reduces the damage to 985.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+   bit of lung
+>
+cast 2
+
+You chant the words of a Inferno spell and attempt to control the power
+>wizmonster kobold;;t
+
+Kobold scampers in!
+Monster summoned...
+
+
+Foobar gestures at Kobold...
+A stream of flames shoot from his hand...
+Kobold is hit by a large wedge of fire for 1855 damage! Its resistance reduces the damage to 1762.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+   bit of lung
+>
+Cosrin Comings and goings: Seik has Logged in
+ Seik HALF ORC BERSERKER Lvl 42  Room 8562 (32)  Hits: 1328 of 1328  SP: 712 of 712
+    In the 'Woo Hoo' Tavern
+cast 3
+
+You chant the words of a Dragon Fire spell and attempt to control the power
+>wizmonster kobold;;t
+
+Kobold scampers in!
+Monster summoned...
+
+
+Foobar gestures at Kobold...
+A huge ball of molten fire shoots from his hands...
+Kobold is hit by a huge ball of fire for 3502 damage! Its resistance reduces the damage to 3326.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+>cast 4
+
+You chant the words of a Chill spell and attempt to control the power
+>wizmonster kobold;;t
+
+Kobold scampers in!
+Monster summoned...
+
+
+Foobar gestures at Kobold...
+A wave of cold rushes from his fingertips...
+Kobold is hit by a small rush of cold for 693 damage! Its resistance reduces the damage to 658.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+>
+Cosrin Comings and goings: Seik has Logged out
+ Seik HALF ORC BERSERKER Lvl 42  Room 8562 (32)  Hits: 1328 of 1328  SP: 712 of 712
+    In the 'Woo Hoo' Tavern
+cast 5
+
+You chant the words of a Ice Ball spell and attempt to control the power
+>wizmonster kobold;;t
+
+Kobold scampers in!
+Monster summoned...
+
+
+Foobar gestures at Kobold...
+A ball of cold and ice rushes from his hand...
+Kobold is hit by a large ball of cold for 2238 damage! Its resistance reduces the damage to 2126.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+>
+cast 6
+
+You chant the words of a Blizzard spell and attempt to control the power
+>wizmonster kobold;;t
+
+Kobold scampers in!
+Monster summoned...
+
+
+Foobar gestures at Kobold...
+A sheet of ice, hail, and extreme cold emanates from his open hands...
+Kobold is hit by a huge cone of cold for 2734 damage! Its resistance reduces the damage to 2597.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+   chunk of granite
+>cast 7
+
+You chant the words of a Zap spell and attempt to control the power
+>wizmonster kobold;;t
+
+Kobold scampers in!
+Monster summoned...
+
+
+Foobar gestures at Kobold...
+A wave of energy flies from his fingertips...
+Kobold is hit by a small jolt of electricity for 867 damage! Its resistance reduces the damage to 823.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+>cast 8
+
+You chant the words of a Blazing Bolts spell and attempt to control the power
+>wizmonster kobold;;t
+
+Kobold scampers in!
+Monster summoned...
+
+
+Foobar gestures at Kobold...
+A bolt of lightning shoots from his finger...
+Kobold is hit by a large spark of energy for 1806 damage! Its resistance reduces the damage to 1715.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+>cast 9
+
+You chant the words of a Gigawatt Death spell and attempt to control the power
+>wizmonster kobold;;t
+
+Kobold scampers in!
+Monster summoned...
+
+
+Foobar gestures at Kobold...
+A ball of intense energy rushes forth from his open hand...
+Kobold is hit by a huge lightning bolt for 3869 damage! Its resistance reduces the damage to 3675.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+   small sapphire
+>
+cast 13
+
+You chant the words of a Venom spell and attempt to control the power
+>wizmonster kobolt
+
+The monster kobolt does not exist ...
+
+>wizmonster kobold
+
+Kobold scampers in!
+Monster summoned...
+
+>t
+
+Foobar gestures at Kobold...
+Foul smelling green goo rushes from his open hand...
+Kobold is now suffering from type 40 poison
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+>wizmonster hydra
+
+Hydra slides in!
+Monster summoned...
+
+>
+Hydra slides to the east
+e
+
+ad
+Within the inner roof gardens of the Monks Guild
+The pathway splits here to wrap around a plain water fountain which serves
+as an oasis for small birds during the day. Thick vines wrap around the
+base of the fountain. The potent scent of herbs permeates the area; only the
+most carefully honed and bred varieties of herbs are kept here.
+Obvious Exits:  East West NorthEast
+Monsters in Room: Hydra  
+
+Hydra slides to the east
+>
+You don't see a hostile creature in the room
+>
+e
+Hydra slides in from the east
+ad
+
+At the inner sand garden of the Monks Guild roof gardens
+A shallow circular pit is inset slightly into the guild roof, which forms a
+perimeter for this large sand garden. Two massive stones are sunk into the
+ivory white sand here and give you a sense of stability. Lines drawn in the
+sand glow and fade; with the same ephemeral spirit of the nearby flowers.
+Obvious Exits:  North East West
+Monsters in Room: Peacock  
+>
+You don't see a hostile creature in the room
+>
+w
+Hydra slides in from the west
+asd
+
+Within the inner roof gardens of the Monks Guild
+The pathway splits here to wrap around a plain water fountain which serves
+as an oasis for small birds during the day. Thick vines wrap around the
+base of the fountain. The potent scent of herbs permeates the area; only the
+most carefully honed and bred varieties of herbs are kept here.
+Obvious Exits:  East West NorthEast
+>
+Command not recognized
+>
+Hydra slides in from the east
+ad
+
+Foobar advances towards Hydra bare handed!
+
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+>Peacock struts in from the east
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 112 damage.  Your armour absorbs 59 (65482 left).
+Your magic armor spell absorbs the remaining damage!
+One of the heads breathes FIRE at you!
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 109 damage.  Your armour absorbs 46 (65472 left).
+Your magic armor spell absorbs the remaining damage!
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 99 damage.  Your armour absorbs 49 (65485 left).
+Your magic armor spell absorbs the remaining damage!
+It is only through the power of the GODS that you remain unaffected.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 119 damage.  Your armour absorbs 48 (65464 left).
+Your magic armor spell absorbs the remaining damage!
+Hydra bites with its fangs at Foobar and hits for light damage
+cast 13
+You are hit for 105 damage.  Your armour absorbs 29 (65459 left).
+Your magic armor spell absorbs the remaining damage!
+
+You chant the words of a Venom spell and attempt to control the power
+>
+t
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 103 damage.  Your armour absorbs 50 (65482 left).
+Your magic armor spell absorbs 23 damage, leaving 30 damage received...
+It is only through the power of the GODS that you remain unaffected.
+
+Foobar gestures at Hydra...
+Foul smelling green goo rushes from his open hand...
+Hydra is now suffering from type 7 poison
+>
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 111 damage.  Your armour absorbs 52 (65446 left).
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+You see the hydra get ready to attack you.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 126 damage.  Your armour absorbs 33 (65353 left).
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 111 damage.  Your armour absorbs 43 (65285 left).
+It is only through the power of the GODS that you remain unaffected.
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 84 damage.  Your armour absorbs 43 (65244 left).
+It is only through the power of the GODS that you remain unaffected.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 108 damage.  Your armour absorbs 28 (65164 left).
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+You see the hydra get ready to attack you.
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 118 damage.  Your armour absorbs 63 (65109 left).
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+The hydra hisses at you.
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 107 damage.  Your armour absorbs 45 (65047 left).
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Peacock struts to the west
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 134 damage.  Your armour absorbs 75 (64988 left).
+It is only through the power of the GODS that you remain unaffected.
+Hummingbird hovers in
+A passing bushi reminds you to show respect to your Brethren.
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+One of the heads breathes FIRE at you!
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 169 damage.  Your armour absorbs 99 (64918 left).
+It is only through the power of the GODS that you remain unaffected.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 92 damage.  Your armour absorbs 38 (64864 left).
+It is only through the power of the GODS that you remain unaffected.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 113 damage.  Your armour absorbs 59 (64810 left).
+It is only through the power of the GODS that you remain unaffected.
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 97 damage.  Your armour absorbs 51 (64764 left).
+It is only through the power of the GODS that you remain unaffected.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 95 damage.  Your armour absorbs 44 (64713 left).
+It is only through the power of the GODS that you remain unaffected.
+The snake tail of the hydra waves out to strike.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 84 damage.  Your armour absorbs 34 (64663 left).
+It is only through the power of the GODS that you remain unaffected.
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 81 damage.  Your armour absorbs 33 (64615 left).
+It is only through the power of the GODS that you remain unaffected.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 50 damage.  Your armour absorbs 19 (64584 left).
+Peacock struts in
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 117 damage.  Your armour absorbs 39 (64506 left).
+It is only through the power of the GODS that you remain unaffected.
+The hydra hisses at you.
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 134 damage.  Your armour absorbs 42 (64414 left).
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 136 damage.  Your armour absorbs 64 (64342 left).
+It is only through the power of the GODS that you remain unaffected.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 103 damage.  Your armour absorbs 50 (64289 left).
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 127 damage.  Your armour absorbs 52 (64214 left).
+It is only through the power of the GODS that you remain unaffected.
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 136 damage.  Your armour absorbs 72 (64150 left).
+It is only through the power of the GODS that you remain unaffected.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 169 damage.  Your armour absorbs 50 (64031 left).
+It is only through the power of the GODS that you remain unaffected.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 107 damage.  Your armour absorbs 57 (63981 left).
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 128 damage.  Your armour absorbs 45 (63898 left).
+The hummingbird flits from flower to flower.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 99 damage.  Your armour absorbs 35 (63834 left).
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 110 damage.  Your armour absorbs 49 (63773 left).
+It is only through the power of the GODS that you remain unaffected.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 112 damage.  Your armour absorbs 36 (63697 left).
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 81 damage.  Your armour absorbs 27 (63643 left).
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 136 damage.  Your armour absorbs 41 (63548 left).
+ex 1
+
+With a mass of heads and a snake-like body, the hydra
+slowly makes it way towards you!
+This creature poses absolutely no challenge
+Hydra is wounded (7878 hits left) 
+A novice assassin would not need to wound or weaken the Hydra
+before being capable of felling it with a single blow
+Monster exp is 1.000
+
+Several heads from the hydra snap out towards you.
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+>Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 71 damage.  Your armour absorbs 25 (63502 left).
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 147 damage.  Your armour absorbs 47 (63402 left).
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 148 damage.  Your armour absorbs 47 (63301 left).
+It is only through the power of the GODS that you remain unaffected.
+Several heads from the hydra snap out towards you.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 129 damage.  Your armour absorbs 50 (63222 left).
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 177 damage.  Your armour absorbs 99 (63144 left).
+It is only through the power of the GODS that you remain unaffected.
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+aim
+
+Foobar slaps the Hydra and misses badly!
+Foobar pummels zealously the Hydra and is barely dodged
+
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 77 damage.  Your armour absorbs 42 (63109 left).
+It is only through the power of the GODS that you remain unaffected.
+>Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 62 damage.  Your armour absorbs 35 (63082 left).
+It is only through the power of the GODS that you remain unaffected.
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+aim
+
+Foobar kicks the Hydra and is barely dodged
+>
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 118 damage.  Your armour absorbs 55 (63019 left).
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+The hydra hisses at you.
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 97 damage.  Your armour absorbs 44 (62966 left).
+It is only through the power of the GODS that you remain unaffected.
+Hydra bites with its fangs at Foobar and hits for light damage
+You are hit for 132 damage.  Your armour absorbs 69 (62903 left).
+cast blizzard
+
+You chant the words of a Blizzard spell and attempt to control the power
+
+Foobar is hit with a Inferno spell cast by Hydra!
+It is only through the power of the GODS that you remain unaffected.
+>t
+
+Foobar gestures at Hydra...
+A sheet of ice, hail, and extreme cold emanates from his open hands...
+Hydra is hit by a huge cone of cold for 3564 damage! Its resistance reduces the damage to 2566.
+Hydra is stunned for 15 seconds!
+Hydra is now bleeding 2 hit points per round!
+>cast blizzard
+
+You chant the words of a Blizzard spell and attempt to control the power
+>t
+
+You are unbalanced. Wait 0.1 more seconds.
+>t
+
+Foobar gestures at Hydra...
+A sheet of ice, hail, and extreme cold emanates from his open hands...
+Hydra is hit by a huge cone of cold for 2504 damage! Its resistance reduces the damage to 1802.
+>t;;cast blizzard
+
+You have not cast a spell!
+
+You chant the words of a Blizzard spell and attempt to control the power
+>t;;cast blizzard
+
+Foobar gestures at Hydra...
+A sheet of ice, hail, and extreme cold emanates from his open hands...
+Hydra is hit by a huge cone of cold for 2934 damage! Its resistance reduces the damage to 2112.
+
+You chant the words of a Blizzard spell and attempt to control the power
+>t;;cast blizzard
+
+You are unbalanced. Wait 0.2 more seconds.
+
+You are unbalanced. Wait 0.2 more seconds.
+>t;;cast blizzard
+
+Foobar gestures at Hydra...
+A sheet of ice, hail, and extreme cold emanates from his open hands...
+Hydra is hit by a huge cone of cold for 3011 damage! Its resistance reduces the damage to 2167.
+Hydra is slain!
+Hydra had nothing of value
+
+You chant the words of a Blizzard spell and attempt to control the power
+>w
+
+Within the inner roof gardens of the Monks Guild
+A small, unassuming garden is here. The smooth stone pathway continues
+further to reveal Femfendar and other common herbs, growing in rows near
+a sitting area. Two stone benches provide ample seating, with a stone
+table for herb preparation.
+Obvious Exits:  East
+Items here: heavy crossbow   heavy crossbow   bit of lung   
+heavy crossbow   bit of lung   heavy crossbow   
+heavy crossbow   heavy crossbow   heavy crossbow   
+chunk of granite   heavy crossbow   heavy crossbow   
+heavy crossbow   small sapphire   heavy crossbow   
+Monsters in Room: Peacock  
+>clean
+
+Foobar cleans the room...
+>e
+
+Within the inner roof gardens of the Monks Guild
+The pathway splits here to wrap around a plain water fountain which serves
+as an oasis for small birds during the day. Thick vines wrap around the
+base of the fountain. The potent scent of herbs permeates the area; only the
+most carefully honed and bred varieties of herbs are kept here.
+Obvious Exits:  East West NorthEast
+Monsters in Room: Hummingbird  Peacock  
+>clean
+
+w
+Foobar cleans the room...
+>
+Within the inner roof gardens of the Monks Guild
+A small, unassuming garden is here. The smooth stone pathway continues
+further to reveal Femfendar and other common herbs, growing in rows near
+a sitting area. Two stone benches provide ample seating, with a stone
+table for herb preparation.
+Obvious Exits:  East
+Monsters in Room: Peacock  
+>l
+
+Within the inner roof gardens of the Monks Guild
+A small, unassuming garden is here. The smooth stone pathway continues
+further to reveal Femfendar and other common herbs, growing in rows near
+a sitting area. Two stone benches provide ample seating, with a stone
+table for herb preparation.
+Obvious Exits:  East
+Monsters in Room: Peacock  
+>
+ex 1
+Hummingbird hovers in from the east
+
+This sacred creature was brought to the monks
+to breed and serve as a reminder of the holy.
+This creature poses absolutely no challenge
+Peacock is in perfect health (78 hits left) 
+The Peacock is far too clever to be ambushed from the shadows.
+Monster exp is 1.000
+>ex 2
+
+Long glittering feathers make up the tail of this exquisite bird,
+while the curved beak drinks in the nectar of eager flowers.
+This creature poses absolutely no challenge
+Hummingbird is in perfect health (42 hits left) 
+The Hummingbird is far too clever to be ambushed from the shadows.
+Monster exp is 0.000
+>
+Peacock struts in from the east
+Peacock struts to the east
+l
+
+Within the inner roof gardens of the Monks Guild
+A small, unassuming garden is here. The smooth stone pathway continues
+further to reveal Femfendar and other common herbs, growing in rows near
+a sitting area. Two stone benches provide ample seating, with a stone
+table for herb preparation.
+Obvious Exits:  East
+Monsters in Room: Hummingbird  Peacock  
+>
+You can use the command GSHOUT to speak to other guild members.
+cast 14
+
+You chant the words of a Pestilence spell and attempt to control the power
+>wizmonster kobold;;t
+
+Kobold scampers in!
+Monster summoned...
+
+
+Foobar gestures at Kobold...
+A torrent of brackish, smelly liquid, rushes from his palm...
+Kobold is now suffering from type 77 poison
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+   scroll of antidote
+>cast 15
+
+You chant the words of a Plague spell and attempt to control the power
+>wizmonster kobold;;t
+
+Kobold scampers in!
+Monster summoned...
+
+
+Foobar gestures at Kobold...
+A mass of black and green goo shoots from his finger...
+Kobold is now suffering from type 52 poison
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+>cast 65
+
+You chant the words of a Soul Leech spell and attempt to control the power
+>wizmonster kobold;;t
+
+Kobold scampers in!
+Monster summoned...
+
+
+Foobar gestures at Kobold...
+A loud sucking noise can be heard...
+Kobold is hit by a huge amount of negative energy for 3977 damage! Its resistance reduces the damage to 3778.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+>
+The hummingbird lights upon a bloom and drinks in the nectar.
+cast 67
+
+You chant the words of a Demon Fire spell and attempt to control the power
+>wizmassmonster 10 kobold;;t
+
+Kobold scampers in!
+Monster summoned... 9 to go
+Kobold scampers in!
+Monster summoned... 8 to go
+Kobold scampers in!
+Monster summoned... 7 to go
+Kobold scampers in!
+Monster summoned... 6 to go
+Kobold scampers in!
+Monster summoned... 5 to go
+Kobold scampers in!
+Monster summoned... 4 to go
+Kobold scampers in!
+Monster summoned... 3 to go
+Kobold scampers in!
+Monster summoned... 2 to go
+Kobold scampers in!
+Monster summoned... 1 to go
+Kobold scampers in!
+Monster summoned... 0 to go
+
+
+Foobar broadly gestures at the creatures
+The air is filled with a tremendous fireball...
+Kobold is hit by a intense ball of fire for 225 damage! Its resistance reduces the damage to 213.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+   bit of lung
+Kobold is hit by a intense ball of fire for 301 damage! Its resistance reduces the damage to 285.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+Kobold is hit by a intense ball of fire for 326 damage! Its resistance reduces the damage to 309.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+   bit of lung
+Kobold is hit by a intense ball of fire for 407 damage! Its resistance reduces the damage to 386.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+   scroll of antidote
+Kobold is hit by a intense ball of fire for 365 damage! Its resistance reduces the damage to 346.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+Kobold is hit by a intense ball of fire for 225 damage! Its resistance reduces the damage to 213.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+Kobold is hit by a intense ball of fire for 293 damage! Its resistance reduces the damage to 278.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+   small emerald
+   kobolds skull
+Kobold is hit by a intense ball of fire for 391 damage! Its resistance reduces the damage to 371.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+Kobold is hit by a intense ball of fire for 357 damage! Its resistance reduces the damage to 339.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+   kobolds skull
+   bit of lung
+Kobold is hit by a intense ball of fire for 379 damage! Its resistance reduces the damage to 360.
+Kobold is slain!
+Kobold had:
+>cast 67
+
+You chant the words of a Demon Fire spell and attempt to control the power
+>wizmassmonster 3 kobold;;t
+
+Kobold scampers in!
+Monster summoned... 2 to go
+Kobold scampers in!
+Monster summoned... 1 to go
+Kobold scampers in!
+Monster summoned... 0 to go
+
+
+Foobar broadly gestures at the creatures
+The air is filled with a tremendous fireball...
+Kobold is hit by a intense ball of fire for 816 damage! Its resistance reduces the damage to 775.
+Kobold is slain!
+Kobold had:
+Kobold is hit by a intense ball of fire for 696 damage! Its resistance reduces the damage to 661.
+Kobold is slain!
+Kobold had:
+Kobold is hit by a intense ball of fire for 633 damage! Its resistance reduces the damage to 601.
+Kobold is slain!
+Kobold had:
+>cast 68
+
+You chant the words of a Arctic Blast spell and attempt to control the power
+>wizmassmonster 3 kobold;;t
+
+Kobold scampers in!
+Monster summoned... 2 to go
+Kobold scampers in!
+Monster summoned... 1 to go
+Kobold scampers in!
+Monster summoned... 0 to go
+
+
+Foobar broadly gestures at the creatures
+The air around you freezes as all warmth leaves...
+Kobold is hit by a intense blast of freezing cold for 783 damage! Its resistance reduces the damage to 743.
+Kobold is slain!
+Kobold had:
+Kobold is hit by a intense blast of freezing cold for 503 damage! Its resistance reduces the damage to 477.
+Kobold is slain!
+Kobold had:
+Kobold is hit by a intense blast of freezing cold for 540 damage! Its resistance reduces the damage to 513.
+Kobold is slain!
+Kobold had:
+>
+cast 69
+
+You chant the words of a Lightning Storm spell and attempt to control the power
+>wizmassmonster 3 kobold;;t
+
+Kobold scampers in!
+Monster summoned... 2 to go
+Kobold scampers in!
+Monster summoned... 1 to go
+Kobold scampers in!
+Monster summoned... 0 to go
+
+
+Foobar broadly gestures at the creatures
+The room fills with blazing lightning...
+Kobold is hit by a intense wave of electricity for 461 damage! Its resistance reduces the damage to 437.
+Kobold is slain!
+Kobold had:
+Kobold is hit by a intense wave of electricity for 587 damage! Its resistance reduces the damage to 557.
+Kobold is slain!
+Kobold had:
+Kobold is hit by a intense wave of electricity for 484 damage! Its resistance reduces the damage to 459.
+Kobold is slain!
+Kobold had:
+>wizmonster ogre king
+
+Ogre King thunders in!
+Monster summoned...
+
+>ad
+
+Hummingbird hovers to the east
+
+Foobar advances towards Ogre King bare handed!
+>
+Ogre King swings its sceptre at Foobar and hits for light damage
+You are hit for 64 damage.  Your armour absorbs 35 (62907 left).
+wizslayq
+
+>l
+
+Within the inner roof gardens of the Monks Guild
+A small, unassuming garden is here. The smooth stone pathway continues
+further to reveal Femfendar and other common herbs, growing in rows near
+a sitting area. Two stone benches provide ample seating, with a stone
+table for herb preparation.
+Obvious Exits:  East
+Items here: heavy crossbow   scroll of antidote   heavy crossbow   
+heavy crossbow   heavy crossbow   bit of lung   
+heavy crossbow   heavy crossbow   bit of lung   
+heavy crossbow   scroll of antidote   heavy crossbow   
+heavy crossbow   heavy crossbow   small emerald   
+kobolds skull   heavy crossbow   heavy crossbow   
+kobolds skull   bit of lung   
+>wizmonster troll elder
+
+ad
+Troll elder stomps in!
+Monster summoned...
+
+>
+Foobar advances towards Troll elder bare handed!
+>cast heal
+
+You chant the words of a Heal spell and attempt to control the power
+>
+t
+Troll elder claws at Foobar and hits for light damage
+You are hit for 96 damage.  Your armour absorbs 27 (62838 left).
+
+Foobar gestures towards himself
+A soft white glow slowly sinks into Foobar
+You are healed of 903 damage! Current hits: 63741 out of 65535
+>cast body restore
+
+You chant the words of a Body Restore spell and attempt to control the power
+>t
+
+Foobar gestures towards himself
+A blinding white glow sinks into Foobar
+You are healed of 1794 damage! Current hits: 65535 out of 65535
+>
+Troll elder claws at Foobar and is barely dodged
+cast dragon shards
+
+You chant the words of a Dragon Shards spell and attempt to control the power
+>
+Troll elder claws at Foobar and is barely dodged
+t
+
+Foobar gestures towards himself
+A hovering glowing shield appears in front of Foobar
+>l
+
+Within the inner roof gardens of the Monks Guild
+A small, unassuming garden is here. The smooth stone pathway continues
+further to reveal Femfendar and other common herbs, growing in rows near
+a sitting area. Two stone benches provide ample seating, with a stone
+table for herb preparation.
+Obvious Exits:  East
+Items here: heavy crossbow   scroll of antidote   heavy crossbow   
+heavy crossbow   heavy crossbow   bit of lung   
+heavy crossbow   heavy crossbow   bit of lung   
+heavy crossbow   scroll of antidote   heavy crossbow   
+heavy crossbow   heavy crossbow   small emerald   
+kobolds skull   heavy crossbow   heavy crossbow   
+kobolds skull   bit of lung   
+Monsters in Room: Troll elder  
+>h
+
+You have 65535 hit points out of a maximum of 65535
+You have 65538 spell points out of a maximum of 65635
+You have 0 adrenaline points out of a maximum of 5
+You are:
+     True Sighted           
+     Protected               ( 118) [00:38:46]
+
+>
+Troll elder claws at Foobar and misses badly!
+h
+
+You have 65535 hit points out of a maximum of 65535
+You have 65538 spell points out of a maximum of 65635
+You have 0 adrenaline points out of a maximum of 5
+You are:
+     True Sighted           
+     Protected               ( 118) [00:38:42]
+
+>
+Troll elder claws at Foobar and is barely dodged
+l
+
+Within the inner roof gardens of the Monks Guild
+A small, unassuming garden is here. The smooth stone pathway continues
+further to reveal Femfendar and other common herbs, growing in rows near
+a sitting area. Two stone benches provide ample seating, with a stone
+table for herb preparation.
+Obvious Exits:  East
+Items here: heavy crossbow   scroll of antidote   heavy crossbow   
+heavy crossbow   heavy crossbow   bit of lung   
+heavy crossbow   heavy crossbow   bit of lung   
+heavy crossbow   scroll of antidote   heavy crossbow   
+heavy crossbow   heavy crossbow   small emerald   
+kobolds skull   heavy crossbow   heavy crossbow   
+kobolds skull   bit of lung   
+Monsters in Room: Troll elder  
+>
+Troll elder claws at Foobar and is barely dodged
+Troll elder claws at Foobar and misses badly!
+clean
+
+Foobar cleans the room...
+>
+Troll elder claws at Foobar and misses badly!
+wizitem dagger
+
+Tinkerer Foobar, Engineering Marvel seems to reach into an extra dimensional space...
+You now have a sharp dagger in your right hand
+
+>
+Troll elder claws at Foobar and is barely dodged
+cast fire enchantment
+Troll elder claws at Foobar and is barely dodged
+
+You chant the words of a Fire Enchantment spell and attempt to control the power
+>t
+
+You see Foobar gesture at his sharp dagger...
+Suddenly, you see the sharp dagger begin to glow.. The glow fades and it now is a lava drenched sharp dagger!
+>ex dagger
+
+Item: lava drenched sharp dagger (dagger)
+Item number: 1
+This dagger is made from sturdy metal and is bound with
+a leather handle.
+This item is a Piercing One Handed Weapon. Invoke via the Wield or Wave commands
+The weapon has an offense add rating of NONE and hits for
+1-2+1 damage.
+Offense modifier                  NONE   Defense Modifier NONE
+Fire Resist Mod                   NONE   Cold Resist Mod  NONE
+Electric Res Mod                  NONE   Poison Res  Mod  NONE
+Entangle Res Mod                  NONE
+Armor Class Modifier NONE
+This weapon's enchantment will wear off in 53.0 minutes.
+>a
+
+Foobar stabs his lava drenched sharp dagger at Troll elder and hits for serious damage
+You hit for 428 damage. The creature's armor absorbs 78.
+
+As Foobar hits the Troll elder, the wound glows bright red and heats up!
+Troll elder is hit by a intense ball of fire for 620 damage!
+Foobar stabs his lava drenched sharp dagger at Troll elder and hits for serious damage
+You hit for 432 damage. The creature's armor absorbs 58.
+
+Troll elder is stunned for 20 seconds!
+As Foobar hits the Troll elder, the wound glows bright red and heats up!
+Troll elder is hit by a intense ball of fire for 637 damage!
+Troll elder is slain!
+Troll elder had nothing of value
+>
+cast cold enchantment
+
+You chant the words of a Cold Enchantment spell and attempt to control the power
+>t
+
+The sharp dagger is already enchanted... The discharge spell
+can be used to remove the enchantment if you wish.
+>destory dagger;;wizitem dagger;;t
+
+Command not recognized
+
+Your right hand must be empty to create an item...
+
+
+The sharp dagger is already enchanted... The discharge spell
+can be used to remove the enchantment if you wish.
+>destroy dagger;;wizitem dagger;;t
+
+Foobar destroys his lava drenched sharp dagger
+
+Tinkerer Foobar, Engineering Marvel seems to reach into an extra dimensional space...
+You now have a sharp dagger in your right hand
+
+
+You see Foobar gesture at his sharp dagger...
+Suddenly, you see the sharp dagger begin to glow.. The glow fades and it now is a glacial sharp dagger!
+>wizmonster troll elder;;ch
+
+Troll elder stomps in!
+Monster summoned...
+
+
+In order to use the Charge command, you must be riding a mount...
+>ad
+
+Foobar advances towards Troll elder
+>aim
+
+Foobar stabs his glacial sharp dagger at Troll elder and is barely dodged
+>a
+
+Foobar stabs his glacial sharp dagger at Troll elder and hits for severe damage
+You hit for 631 damage. The creature's armor absorbs 133.
+
+As Foobar hits the Troll elder, the wound glows deep blue and becomes extremely cold!
+Troll elder is hit by a intense blast of freezing cold for 665 damage! Its resistance reduces the damage to 432.
+Troll elder is stunned for 20 seconds!
+Foobar stabs his glacial sharp dagger at Troll elder and hits for fatal damage
+You hit for 325 damage. The creature's armor absorbs 130.
+
+Troll elder is slain!
+Troll elder had nothing of value
+>
+cast 87
+
+You chant the words of a Electricity Enchantment spell and attempt to control the power
+>destroy dagger;;wizitem dagger;;t
+
+Foobar destroys his glacial sharp dagger
+
+Tinkerer Foobar, Engineering Marvel seems to reach into an extra dimensional space...
+You now have a sharp dagger in your right hand
+
+
+You see Foobar gesture at his sharp dagger...
+Suddenly, you see the sharp dagger begin to glow.. The glow fades and it now is a uncontrollably energized sharp dagger!
+>wizmonster troll elder;;ad
+
+Troll elder stomps in!
+Monster summoned...
+
+
+Foobar advances towards Troll elder
+>a
+
+Foobar stabs his uncontrollably energized sharp dagger at Troll elder and hits for severe damage
+You hit for 758 damage. The creature's armor absorbs 168.
+
+As Foobar hits the Troll elder, the wound flares bright yellow and crackles with unbridled energy!
+Troll elder is hit by a intense wave of electricity for 471 damage! Its resistance reduces the damage to 306.
+Troll elder is stunned for 20 seconds!
+Troll elder is now bleeding 3 hit points per round!
+Foobar stabs his uncontrollably energized sharp dagger at Troll elder and hits for serious damage
+You hit for 495 damage. The creature's armor absorbs 103.
+
+As Foobar hits the Troll elder, the wound flares bright yellow and crackles with unbridled energy!
+Troll elder is hit by a intense wave of electricity for 601 damage! Its resistance reduces the damage to 390.
+Troll elder is slain!
+Troll elder had nothing of value
+>cast 89
+
+You chant the words of a Venom Enchantment spell and attempt to control the power
+>destroy dagger;;wizitem dagger;;t
+
+Foobar destroys his uncontrollably energized sharp dagger
+
+Tinkerer Foobar, Engineering Marvel seems to reach into an extra dimensional space...
+You now have a sharp dagger in your right hand
+
+
+You see Foobar gesture at his sharp dagger...
+Suddenly, you see the sharp dagger begin to glow.. The glow fades and it now is a vilely contaminated sharp dagger!
+>wizmonster troll elder;;ad
+
+Troll elder stomps in!
+Monster summoned...
+
+
+Foobar advances towards Troll elder
+>a
+
+Foobar stabs his vilely contaminated sharp dagger at Troll elder and hits for severe damage
+You hit for 611 damage. The creature's armor absorbs 141.
+
+As Foobar hits the Troll elder, the wound drips a black gooey substance!
+Troll elder is now suffering from type 38 poison
+Foobar stabs his vilely contaminated sharp dagger at Troll elder and is barely dodged
+>ex 1
+
+Much larger than the other trolls, this elder troll
+swings its paws at you!
+This creature poses absolutely no challenge
+Troll elder is wounded (692 hits left) 
+A novice assassin would not need to wound or weaken the Troll elder
+before being capable of felling it with a single blow
+Monster exp is 2.000
+
+Troll elder claws at Foobar and misses badly!
+>Troll elder claws at Foobar and misses badly!
+Worshiper walks in
+The troll elder grins and shows you its teeth.
+Troll elder claws at Foobar and hits for light damage
+You are hit for 56 damage.  Your armour absorbs 14 (65493 left).
+Peacock struts in
+a
+
+Foobar stabs his vilely contaminated sharp dagger at Troll elder and is barely dodged
+>a
+
+Foobar stabs his vilely contaminated sharp dagger at Troll elder and hits for severe damage
+You hit for 616 damage. The creature's armor absorbs 131.
+
+Troll elder is stunned for 15 seconds!
+As Foobar hits the Troll elder, the wound drips a black gooey substance!
+Troll elder is now suffering from type 35 poison
+Foobar stabs his vilely contaminated sharp dagger at Troll elder and hits for fatal damage
+You hit for 184 damage. The creature's armor absorbs 102.
+
+Troll elder is slain!
+Troll elder had nothing of value
+>
+l
+
+Within the inner roof gardens of the Monks Guild
+A small, unassuming garden is here. The smooth stone pathway continues
+further to reveal Femfendar and other common herbs, growing in rows near
+a sitting area. Two stone benches provide ample seating, with a stone
+table for herb preparation.
+Obvious Exits:  East
+Monsters in Room: Worshiper  Peacock  
+>ex 1
+
+This young guild member is busy doing the small tasks
+that help to keep the guild running.
+This creature poses absolutely no challenge
+Worshiper is in perfect health (3 hits left) 
+A novice assassin would not need to wound or weaken the Worshiper
+before being capable of felling it with a single blow
+Monster exp is 10.000
+>ex 2
+
+This sacred creature was brought to the monks
+to breed and serve as a reminder of the holy.
+This creature poses absolutely no challenge
+Peacock is in perfect health (94 hits left) 
+The Peacock is far too clever to be ambushed from the shadows.
+Monster exp is 1.000
+>l
+
+Within the inner roof gardens of the Monks Guild
+A small, unassuming garden is here. The smooth stone pathway continues
+further to reveal Femfendar and other common herbs, growing in rows near
+a sitting area. Two stone benches provide ample seating, with a stone
+table for herb preparation.
+Obvious Exits:  East
+Monsters in Room: Worshiper  Peacock  
+>wizslayq
+
+l
+>
+Within the inner roof gardens of the Monks Guild
+A small, unassuming garden is here. The smooth stone pathway continues
+further to reveal Femfendar and other common herbs, growing in rows near
+a sitting area. Two stone benches provide ample seating, with a stone
+table for herb preparation.
+Obvious Exits:  East
+>cast 95
+
+You chant the words of a Energy Drain Enchantment spell and attempt to control the power
+>destroy dagger;;wizitem dagger;;t
+
+Foobar destroys his vilely contaminated sharp dagger
+
+Tinkerer Foobar, Engineering Marvel seems to reach into an extra dimensional space...
+You now have a sharp dagger in your right hand
+
+
+You see Foobar gesture at his sharp dagger...
+Suddenly, you see the sharp dagger begin to glow.. The glow fades and it now is a nightmare inducing sharp dagger!
+>wizmonster troll elder;;ad
+
+Troll elder stomps in!
+Monster summoned...
+
+
+Foobar advances towards Troll elder
+>a
+
+Foobar stabs his nightmare inducing sharp dagger at Troll elder and hits for serious damage
+You hit for 511 damage. The creature's armor absorbs 116.
+
+As Foobar hits the Troll elder, the wound oozes a deep crimson liquid!
+Troll elder is hit by a fantastic dose of negative energy for 603 damage! Its resistance reduces the damage to 391.
+>
+Troll elder claws at Foobar and misses badly!
+The troll elder picks at a sore on its body causing it to pus.
+Troll elder claws at Foobar and misses badly!
+Troll elder claws at Foobar and misses badly!
+Troll elder claws at Foobar and misses badly!
+a
+
+Foobar stabs his nightmare inducing sharp dagger at Troll elder and is barely dodged
+>a
+
+Foobar stabs his nightmare inducing sharp dagger at Troll elder and is barely dodged
+Foobar stabs his nightmare inducing sharp dagger at Troll elder and is barely dodged
+>a
+
+Foobar stabs his nightmare inducing sharp dagger at Troll elder and hits for severe damage
+You hit for 587 damage. The creature's armor absorbs 120.
+
+Troll elder is stunned for 20 seconds!
+Troll elder is now bleeding 2 hit points per round!
+As Foobar hits the Troll elder, the wound oozes a deep crimson liquid!
+Troll elder is hit by a fantastic dose of negative energy for 667 damage! Its resistance reduces the damage to 433.
+Troll elder is slain!
+Troll elder had nothing of value
+>a
+
+You are not engaging a(n) creature
+Use the ADVANCE (AD) command to advance on a creature
+>a
+
+You are not engaging a(n) creature
+Use the ADVANCE (AD) command to advance on a creature
+>l
+
+Within the inner roof gardens of the Monks Guild
+A small, unassuming garden is here. The smooth stone pathway continues
+further to reveal Femfendar and other common herbs, growing in rows near
+a sitting area. Two stone benches provide ample seating, with a stone
+table for herb preparation.
+Obvious Exits:  East
+>clean
+
+l
+Foobar cleans the room...
+>
+Within the inner roof gardens of the Monks Guild
+A small, unassuming garden is here. The smooth stone pathway continues
+further to reveal Femfendar and other common herbs, growing in rows near
+a sitting area. Two stone benches provide ample seating, with a stone
+table for herb preparation.
+Obvious Exits:  East
+>destroy dagger
+
+Foobar destroys his nightmare inducing sharp dagger
+>cast body restore
+
+You chant the words of a Body Restore spell and attempt to control the power
+>t
+
+Foobar gestures towards himself
+A blinding white glow sinks into Foobar
+You are healed of 31 damage! Current hits: 65535 out of 65535
+>l
+
+Within the inner roof gardens of the Monks Guild
+A small, unassuming garden is here. The smooth stone pathway continues
+further to reveal Femfendar and other common herbs, growing in rows near
+a sitting area. Two stone benches provide ample seating, with a stone
+table for herb preparation.
+Obvious Exits:  East
+>
+The sun has reached its apex across the land of Cosrin
+The quiet gardens bring a feeling of serenity.
+wt 6912
+
+You feel yourself being whisked through time and space...
+When you regain your senses you find yourself -
+
+Observatory
+Hammocks, bean bags, and cushions galore. Kick back, relax,
+and gossip with your fellow observers.
+MOORGATE D STORMPORT U BRILIATORE SE SHRINE SW
+FIGHTERS N MAGES E ROGUES S MONKS W TEMPLE NE LEONI NW
+Obvious Exits:  North South East West NorthEast NorthWest SouthEast SouthWest Up Down
+An animated statue has a shop here which will  buy items, sell items , perform services 
+>l
+
+Observatory
+Hammocks, bean bags, and cushions galore. Kick back, relax,
+and gossip with your fellow observers.
+MOORGATE D STORMPORT U BRILIATORE SE SHRINE SW
+FIGHTERS N MAGES E ROGUES S MONKS W TEMPLE NE LEONI NW
+Obvious Exits:  North South East West NorthEast NorthWest SouthEast SouthWest Up Down
+An animated statue has a shop here which will  buy items, sell items , perform services 
+>

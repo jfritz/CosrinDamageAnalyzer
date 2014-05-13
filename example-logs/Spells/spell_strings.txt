@@ -1,0 +1,320 @@
+
+Spells you know:
+1.  Fireflames (13)  Panthorix Rex
+You chant the words of a Fireflames spell and attempt to control the power
+>wizmonster kobold;;t
+
+Kobold scampers in!
+Monster summoned...
+
+
+Foobar gestures at Kobold...
+A wave of heat rushes from his fingertips...
+Kobold is hit by a small burst of flames for 1037 damage! Its resistance reduces the damage to 985.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+   bit of lung
+>
+
+2.  Inferno (16)  Panthorix Rex
+You chant the words of a Inferno spell and attempt to control the power
+>wizmonster kobold;;t
+
+Kobold scampers in!
+Monster summoned...
+
+
+Foobar gestures at Kobold...
+A stream of flames shoot from his hand...
+Kobold is hit by a large wedge of fire for 1855 damage! Its resistance reduces the damage to 1762.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+   bit of lung
+>
+
+3.  Dragon Fire (22)  Panthorix Rex
+You chant the words of a Dragon Fire spell and attempt to control the power
+>wizmonster kobold;;t
+
+Kobold scampers in!
+Monster summoned...
+
+
+Foobar gestures at Kobold...
+A huge ball of molten fire shoots from his hands...
+Kobold is hit by a huge ball of fire for 3502 damage! Its resistance reduces the damage to 3326.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+
+4.  Chill (13)  Panthorix Rex
+You chant the words of a Chill spell and attempt to control the power
+>wizmonster kobold;;t
+
+Kobold scampers in!
+Monster summoned...
+
+
+Foobar gestures at Kobold...
+A wave of cold rushes from his fingertips...
+Kobold is hit by a small rush of cold for 693 damage! Its resistance reduces the damage to 658.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+>
+
+5.  Ice Ball (16)  Panthorix Rex
+You chant the words of a Ice Ball spell and attempt to control the power
+>wizmonster kobold;;t
+
+Kobold scampers in!
+Monster summoned...
+
+
+Foobar gestures at Kobold...
+A ball of cold and ice rushes from his hand...
+Kobold is hit by a large ball of cold for 2238 damage! Its resistance reduces the damage to 2126.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+>
+
+
+6.  Blizzard (22)  Panthorix Rex
+You chant the words of a Blizzard spell and attempt to control the power
+>wizmonster kobold;;t
+
+Kobold scampers in!
+Monster summoned...
+
+
+Foobar gestures at Kobold...
+A sheet of ice, hail, and extreme cold emanates from his open hands...
+Kobold is hit by a huge cone of cold for 2734 damage! Its resistance reduces the damage to 2597.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+   chunk of granite
+>
+
+7.  Zap (13)  Panthorix Rex
+
+You chant the words of a Zap spell and attempt to control the power
+>wizmonster kobold;;t
+
+Kobold scampers in!
+Monster summoned...
+
+
+Foobar gestures at Kobold...
+A wave of energy flies from his fingertips...
+Kobold is hit by a small jolt of electricity for 867 damage! Its resistance reduces the damage to 823.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+
+8.  Blazing Bolts (16)  Panthorix Rex
+You chant the words of a Blazing Bolts spell and attempt to control the power
+>wizmonster kobold;;t
+
+Kobold scampers in!
+Monster summoned...
+
+
+Foobar gestures at Kobold...
+A bolt of lightning shoots from his finger...
+Kobold is hit by a large spark of energy for 1806 damage! Its resistance reduces the damage to 1715.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+
+9.  Gigawatt Death (22)  Panthorix Rex
+You chant the words of a Gigawatt Death spell and attempt to control the power
+>wizmonster kobold;;t
+
+Kobold scampers in!
+Monster summoned...
+
+
+Foobar gestures at Kobold...
+A ball of intense energy rushes forth from his open hand...
+Kobold is hit by a huge lightning bolt for 3869 damage! Its resistance reduces the damage to 3675.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+   small sapphire
+
+
+13.  Venom (14)  Panthorix Rex
+Foobar gestures at Hydra...
+Foul smelling green goo rushes from his open hand...
+Hydra is now suffering from type 7 poison
+
+14.  Pestilence (18)  Panthorix Rex
+cast 14
+
+You chant the words of a Pestilence spell and attempt to control the power
+>wizmonster kobold;;t
+
+Kobold scampers in!
+Monster summoned...
+
+
+Foobar gestures at Kobold...
+A torrent of brackish, smelly liquid, rushes from his palm...
+Kobold is now suffering from type 77 poison
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+   scroll of antidote
+>
+
+
+15.  Plague (26)  Panthorix Rex
+
+You chant the words of a Plague spell and attempt to control the power
+>wizmonster kobold;;t
+
+Kobold scampers in!
+Monster summoned...
+
+
+Foobar gestures at Kobold...
+A mass of black and green goo shoots from his finger...
+Kobold is now suffering from type 52 poison
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+
+
+65.  Soul Leech (22)  Panthorix Rex
+You chant the words of a Soul Leech spell and attempt to control the power
+>wizmonster kobold;;t
+
+Kobold scampers in!
+Monster summoned...
+
+
+Foobar gestures at Kobold...
+A loud sucking noise can be heard...
+Kobold is hit by a huge amount of negative energy for 3977 damage! Its resistance reduces the damage to 3778.
+Kobold is slain!
+Kobold had:
+   heavy crossbow
+
+
+67.  Demon Fire (28)  Panthorix Rex
+You chant the words of a Demon Fire spell and attempt to control the power
+>wizmassmonster 3 kobold;;t
+
+Kobold scampers in!
+Monster summoned... 2 to go
+Kobold scampers in!
+Monster summoned... 1 to go
+Kobold scampers in!
+Monster summoned... 0 to go
+
+
+Foobar broadly gestures at the creatures
+The air is filled with a tremendous fireball...
+Kobold is hit by a intense ball of fire for 816 damage! Its resistance reduces the damage to 775.
+Kobold is slain!
+Kobold had:
+Kobold is hit by a intense ball of fire for 696 damage! Its resistance reduces the damage to 661.
+Kobold is slain!
+Kobold had:
+Kobold is hit by a intense ball of fire for 633 damage! Its resistance reduces the damage to 601.
+Kobold is slain!
+Kobold had:
+
+
+68.  Arctic Blast (28)  Panthorix Rex
+You chant the words of a Arctic Blast spell and attempt to control the power
+>wizmassmonster 3 kobold;;t
+
+Kobold scampers in!
+Monster summoned... 2 to go
+Kobold scampers in!
+Monster summoned... 1 to go
+Kobold scampers in!
+Monster summoned... 0 to go
+
+
+Foobar broadly gestures at the creatures
+The air around you freezes as all warmth leaves...
+Kobold is hit by a intense blast of freezing cold for 783 damage! Its resistance reduces the damage to 743.
+Kobold is slain!
+Kobold had:
+Kobold is hit by a intense blast of freezing cold for 503 damage! Its resistance reduces the damage to 477.
+Kobold is slain!
+Kobold had:
+Kobold is hit by a intense blast of freezing cold for 540 damage! Its resistance reduces the damage to 513.
+Kobold is slain!
+Kobold had:
+
+
+69.  Lightning Storm (28)  Panthorix Rex
+You chant the words of a Lightning Storm spell and attempt to control the power
+>wizmassmonster 3 kobold;;t
+
+Kobold scampers in!
+Monster summoned... 2 to go
+Kobold scampers in!
+Monster summoned... 1 to go
+Kobold scampers in!
+Monster summoned... 0 to go
+
+
+Foobar broadly gestures at the creatures
+The room fills with blazing lightning...
+Kobold is hit by a intense wave of electricity for 461 damage! Its resistance reduces the damage to 437.
+Kobold is slain!
+Kobold had:
+Kobold is hit by a intense wave of electricity for 587 damage! Its resistance reduces the damage to 557.
+Kobold is slain!
+Kobold had:
+Kobold is hit by a intense wave of electricity for 484 damage! Its resistance reduces the damage to 459.
+Kobold is slain!
+Kobold had:
+
+
+85.  Fire Enchantment (110)  Panthorix Rex
+
+Foobar stabs his lava drenched sharp dagger at Troll elder and hits for serious damage
+You hit for 428 damage. The creature's armor absorbs 78.
+
+As Foobar hits the Troll elder, the wound glows bright red and heats up!
+Troll elder is hit by a intense ball of fire for 620 damage!
+
+86.  Cold Enchantment (110)  Panthorix Rex
+Foobar stabs his glacial sharp dagger at Troll elder and hits for severe damage
+You hit for 631 damage. The creature's armor absorbs 133.
+
+As Foobar hits the Troll elder, the wound glows deep blue and becomes extremely cold!
+Troll elder is hit by a intense blast of freezing cold for 665 damage! Its resistance reduces the damage to 432.
+
+
+87.  Electricity Enchantment (110)  Panthorix Rex
+Foobar stabs his uncontrollably energized sharp dagger at Troll elder and hits for severe damage
+You hit for 758 damage. The creature's armor absorbs 168.
+
+As Foobar hits the Troll elder, the wound flares bright yellow and crackles with unbridled energy!
+Troll elder is hit by a intense wave of electricity for 471 damage! Its resistance reduces the damage to 306.
+
+
+89.  Venom Enchantment (110)  Panthorix Rex
+Foobar stabs his vilely contaminated sharp dagger at Troll elder and hits for severe damage
+You hit for 611 damage. The creature's armor absorbs 141.
+
+As Foobar hits the Troll elder, the wound drips a black gooey substance!
+Troll elder is now suffering from type 38 poison
+
+95.  Energy Drain Enchantment (110)  Panthorix Rex
+Foobar stabs his nightmare inducing sharp dagger at Troll elder and hits for serious damage
+You hit for 511 damage. The creature's armor absorbs 116.
+
+As Foobar hits the Troll elder, the wound oozes a deep crimson liquid!
+Troll elder is hit by a fantastic dose of negative energy for 603 damage! Its resistance reduces the damage to 391.
+

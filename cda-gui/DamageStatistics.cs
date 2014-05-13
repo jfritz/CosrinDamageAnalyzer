@@ -55,6 +55,19 @@ namespace cdagui
 			return (hits.Count == 0);
 		}
 
+		// Add a piece of data (hit) to this stats object.
+		public void AddHit (Int16 raw_damage, Int16 absorbed_damage)
+		{
+			Int16 effective_damage = (Int16)(raw_damage - absorbed_damage);
+
+			// TODO clean the format of the hits ArrayList up for cleaner calculations?
+			this.hits.Add(
+				raw_damage.ToString() + ',' + 
+				absorbed_damage.ToString() + ',' +
+				effective_damage.ToString()
+			);
+		}
+
 		/**
 		 * This function calculates and populates statistical variables based on
 		 * the hits and absorbs arrayLists.
